@@ -4,7 +4,7 @@
 [Episode available here](https://laravelportugal.simplecast.fm/9-working-in-it-outside-portugal)
 
 Links:
-[Laraning.com](https://www.laraning.com)
+* [Laraning.com](https://www.laraning.com)
 
 Com:
 * [Nuno Maduro](https://twitter.com/@enunomaduro)
