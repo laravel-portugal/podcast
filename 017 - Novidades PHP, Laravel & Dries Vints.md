@@ -1,5 +1,5 @@
 # Laravel Portugal Live - 017 -  Novidades do mundo PHP e Laravel, e entrevista com Dries Vints
-*Nov 18, 2018*
+*Nov 9, 2018*
 
 [Episode available here](https://laravelportugal.simplecast.fm/17)
 
